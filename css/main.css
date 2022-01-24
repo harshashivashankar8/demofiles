@@ -45,7 +45,7 @@
 }
 
 /* HERO */
-.crf-hero {background-image: url('https://www.pluralsight.com/content/dam/pluralsight2/teach/author-tools/carved-rock-fitness/hero_bkgd_v1.jpg'); background-repeat: no-repeat; height: 400px; background-size: cover; background-position: center center; text-align: center;}
+.crf-hero {background-image: url('https://www.shopfit.com/content/dam/shopfit2/teach/author-tools/rock-fitness/hero_bkgd_v1.jpg'); background-repeat: no-repeat; height: 400px; background-size: cover; background-position: center center; text-align: center;}
 .crf-hero h1, .crf-hero h2 {font-size: 63px; font-weight: 700; margin: 0; flex: inherit; line-height: 0.9;}
 .crf-hero h1 {left: -30px;}
 .crf-hero h2 {color: #faa541;}
@@ -115,7 +115,7 @@
 .crf-full-banner .row:before {content: ""; position: absolute; border: 1px solid white; display: block; top: 30px; bottom: 30px; left: 50px; right: 50px; z-index: 1;}
 .crf-full-banner .crf-full-banner--image {
     flex: 0 0 58.333333%;
-    background-image: url('https://www.pluralsight.com/content/dam/pluralsight2/teach/author-tools/carved-rock-fitness/img-vistas.jpg');
+    background-image: url('https://www.shopfit.com/content/dam/shopfit2/teach/author-tools/rock-fitness/img-vistas.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
@@ -162,11 +162,11 @@ footer .crf-footer--newsletter button {width: 150px; min-width: auto; text-trans
 footer .crf-footer-m--social {order: 4; position: relative;}
 footer .crf-footer--social ul li, footer .crf-footer-m--social ul li {display: inline-block;}
 footer .crf-footer--social ul li a, footer .crf-footer-m--social ul li a {display: block; width: 23px; height: 23px; background-size: 23px 23px; background-position: center;}
-footer .crf-footer--social .twitter, footer .crf-footer-m--social .twitter {background-image: url('https://www.pluralsight.com/content/dam/pluralsight2/teach/author-tools/carved-rock-fitness/social_icons/Twitter_Icon.svg');}
-footer .crf-footer--social .facebook, footer .crf-footer-m--social .facebook {background-image: url('https://www.pluralsight.com/content/dam/pluralsight2/teach/author-tools/carved-rock-fitness/social_icons/Facebook_Icon.svg');}
-footer .crf-footer--social .instagram, footer .crf-footer-m--social .instagram {background-image: url('https://www.pluralsight.com/content/dam/pluralsight2/teach/author-tools/carved-rock-fitness/social_icons/Instagram_Icon.svg');}
-footer .crf-footer--social .pinterest, footer .crf-footer-m--social .pinterest {background-image: url('https://www.pluralsight.com/content/dam/pluralsight2/teach/author-tools/carved-rock-fitness/social_icons/Pinterest_Icon.svg');}
-footer .crf-footer--social .googleplus, footer .crf-footer-m--social .googleplus {background-image: url('https://www.pluralsight.com/content/dam/pluralsight2/teach/author-tools/carved-rock-fitness/social_icons/GooglePlus_Icon.svg');}
+footer .crf-footer--social .twitter, footer .crf-footer-m--social .twitter {background-image: url('https://www.shopfit.com/content/dam/shopfit2/teach/author-tools/rock-fitness/social_icons/Twitter_Icon.svg');}
+footer .crf-footer--social .facebook, footer .crf-footer-m--social .facebook {background-image: url('https://www.shopfit.com/content/dam/shopfit2/teach/author-tools/rock-fitness/social_icons/Facebook_Icon.svg');}
+footer .crf-footer--social .instagram, footer .crf-footer-m--social .instagram {background-image: url('https://www.shopfit.com/content/dam/shopfit2/teach/author-tools/rock-fitness/social_icons/Instagram_Icon.svg');}
+footer .crf-footer--social .pinterest, footer .crf-footer-m--social .pinterest {background-image: url('https://www.shopfit.com/content/dam/shopfit2/teach/author-tools/rock-fitness/social_icons/Pinterest_Icon.svg');}
+footer .crf-footer--social .googleplus, footer .crf-footer-m--social .googleplus {background-image: url('https://www.shopfit.com/content/dam/shopfit2/teach/author-tools/rock-fitness/social_icons/GooglePlus_Icon.svg');}
 
 footer .crf-footer--logo {color: #e5e5e5; font-size: 16px; flex: 0 0 25%;}
 footer .crf-footer--logo img {max-width: 230px;}
